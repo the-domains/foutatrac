@@ -1,0 +1,28 @@
+name: Foutatrac
+favicon: null
+layout_spectrum: 0.31481081270612776
+typography_spectrum: 0.9495129324495792
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7278686647769064
+  lightness: 0.5679577749688178
+  saturation: 0.29165083542466164
+  rhythmicContrast: 0.4477301756851375
+purpose: []
